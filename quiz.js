@@ -112,7 +112,7 @@ let questions = [
         question: " When you hear a new song, what would you usually do?",
         answer: "B. Check up the lyrics of the song first.",
         options: [
-            "A. Listen to the melody and rhythm first",
+            "A. Listen to the melody and rhythm first.",
             "B. Check up the lyrics of the song first."
         ]
     },
