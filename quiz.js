@@ -149,7 +149,7 @@ let questions = [
         answer: "A. The storyline.",
         options: [
             "A. The storyline.",
-            "B. The acting"
+            "B. The acting."
         ]
     },
     {
@@ -176,7 +176,7 @@ let questions = [
         answer: "B. A new language",
         options: [
             "A. A new art form such as drawing or dancing.",
-            "B. A new language"
+            "B. A new language."
         ]
     }
 ]
